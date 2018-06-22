@@ -1,1 +1,1 @@
-https://github.com/brzost123/ajax/tree/master
+https://github.com/brzost123/ajax/blob/master/index.html
